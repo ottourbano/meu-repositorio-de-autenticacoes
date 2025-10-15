@@ -4,4 +4,5 @@ Repositório de testes de autenticações.
 
 1. Autenticação via nome do usuário e senha; OK
 2. Autenticação via Token de acesso pessoal; OK
-3. Vamos lá
+3. Vamos lá....
+4.  
